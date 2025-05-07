@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreaRC10
 - 👀 I’m interested in machine learning, statistics and Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning PowerBI
 - 💞️ I’m looking to collaborate on projects related to science, health and business. 
 - 📫 How to reach me andrearo1318@gmail.com or andrearo1318@hotmail.com
 
