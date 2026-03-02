@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects related to science, health, cybersecurity, networking and business. 
 - 📫 How to reach me andrearo1318@gmail.com or andrearo1318@hotmail.com
 
-- ⚡ Fun fact: I love writing and swimming
+- ⚡ Fun fact: I love public speaking, writing and swimming
 
 <!---
 AndreaRC10/AndreaRC10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
