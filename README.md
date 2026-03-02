@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreaRC10
 - 👀 I’m interested in cybersecurity, machine learning, statistics and Python
 - 🌱 I’m currently learning PowerBI
-- 💞️ I’m looking to collaborate on projects related to science, health and business. 
+- 💞️ I’m looking to collaborate on projects related to science, health, cybersecurity, networking and business. 
 - 📫 How to reach me andrearo1318@gmail.com or andrearo1318@hotmail.com
 
 - ⚡ Fun fact: I love writing and swimming
